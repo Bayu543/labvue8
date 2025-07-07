@@ -4,7 +4,7 @@
 
 | Nama | Kelas | NIM | 
 |------|-------|-----|
-| Muhammad Arif Mulyanto   |  TI.23.A.5     | 312310359 |
+| Bayu Aji Yuwono   |  TI.23.A.5     | 312310492 |
 
 ##  Deskripsi
 
